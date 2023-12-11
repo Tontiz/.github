@@ -49,7 +49,7 @@ We value your feedback and are continuously working to enhance your experience w
 
 ## Privacy and Security
 
-Rest assured, your privacy and security are our top priorities. For details on how we handle your data, please refer to our [Privacy Policy](privacy.md) and [Security Practices](security.md).
+Rest assured, your privacy and security are our top priorities. For details on how we handle your data, please refer to our [Privacy Policy](profile/privacy.md) and [Security Practices](profile/security.md).
 
 ## License
 
